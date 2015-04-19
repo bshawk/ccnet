@@ -16,7 +16,7 @@ Server has the following functions:
 3. Cluster management
 
 Dependency
-==========
+===============
 
 The following packages are required to build ccnet:
 
